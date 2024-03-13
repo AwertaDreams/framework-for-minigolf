@@ -1,0 +1,9 @@
+-- Create a settings menu [done]
+--> Print the materials where the golf ball lands [soon]
+
+-- Create minigolf FGD. [done]
+-- golf guide [soon]
+
+//bugs
+fix displacement bug, out of bounds? [unknown]
+Bypass round line 152 time limit! checkbox - rewrite [dont know if relevant]

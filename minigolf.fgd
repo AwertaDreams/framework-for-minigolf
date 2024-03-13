@@ -1,0 +1,26 @@
+//-------------------------------------------------------------------------
+//
+// Game data for Minigolf
+//
+//-------------------------------------------------------------------------
+
+@include "base.fgd"
+
+@PointClass base(Angles) = golfwaiting : "[Minigolf] Waiting start"
+[
+]
+
+@PointClass base(Angles) = golfstart : "[Minigolf] Start"
+[
+	hole(integer) : "Hole Number" : 1 : "Hole num"
+	name(string) : "Hole Name" : "Awesome Level" : "Hole name"
+	par(integer) : "Par" : 1 : "Par count"
+]
+
+@SolidClass base(Targetname, Parentname, Angles) = golfhole : "[Minigolf] Marks the finish of the level"
+[
+]
+
+@SolidClass base(Targetname, Parentname, Angles) = trigger_bounds : "[Minigolf] Out of bounds"
+[
+]

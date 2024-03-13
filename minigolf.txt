@@ -1,0 +1,8 @@
+"framework"
+{
+	"base"		"base"
+	"title"		"framework for minigolf"
+	"category"	"pvp"
+	"maps"		""
+	"menusystem"	"1"
+}

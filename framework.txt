@@ -1,0 +1,8 @@
+"minigolf"
+{
+	"base"		"base"
+	"title"		"minigolf"
+	"category"	"pvp"
+	"maps"		""
+	"menusystem"	"1"
+}
