@@ -1,5 +1,5 @@
 ## Framework for minigolf
-Framework for minigolf is a standalone tool for testing out gmod tower minigolf maps, and doesnt require from user to host gmod tower in order to test minigolf maps.
+Framework for minigolf is a standalone tool for testing out gmod tower minigolf maps, and doesnt require user to host gmod tower in order to test minigolf maps.
 
 
 # This project is not affiliated with PixelTail Games.
